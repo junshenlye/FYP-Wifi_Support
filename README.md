@@ -1,5 +1,7 @@
 # FYP-Wifi_Support
 ESP32 Wroom IoT Device Source code, used for the collection of temperature data and data analysis for Final Year Project
+# Entire Project Documentation report for FYP
+https://docs.google.com/document/d/1-SHonQazS1th-hgr_cMmxPn41pXmJDLi8P6tvfzikfw/edit?usp=sharing
 
 # Streaming Data Via MQTT Protocols, Data Visulizes with Grafana
 ![Final Year Project Presentation](https://github.com/junshenlye/FYP-Ethernet_Support/assets/69711881/590944e5-8e50-4d5d-b82c-0f0dddf5c703)
